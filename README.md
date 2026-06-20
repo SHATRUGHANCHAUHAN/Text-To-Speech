@@ -1,78 +1,189 @@
-# Getting Started with Create React App
+# 🎙️ Vocalize AI - Text-to-Speech Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and responsive Text-to-Speech (TTS) web application built using React.js that converts written text into natural-sounding speech. The application provides an intuitive user interface, customizable voice settings, and real-time speech generation capabilities.
 
-## Available Scripts
+## 🚀 Live Demo
 
-In the project directory, you can run:
+Add your deployed application link here:
 
-### `npm start`
+```text
+https://your-app-url.netlify.app
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📌 Overview
 
-### `npm test`
+Vocalize AI is designed to provide a seamless text-to-speech experience through a clean and interactive user interface. Users can enter text, customize voice settings, and generate realistic speech output suitable for various applications such as:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Audiobook narration
+* Educational content
+* Accessibility support
+* Podcast creation
+* Video voiceovers
+* Marketing advertisements
 
-### `npm run build`
+This project demonstrates frontend development skills, modern UI design, component-based architecture, and integration-ready support for advanced AI speech synthesis services.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ✨ Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🎤 Text-to-Speech Generation
 
-### `npm run eject`
+* Convert text into speech instantly
+* Natural and human-like voice output
+* Interactive speech controls
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### ⚙️ Voice Customization
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Adjustable speech parameters
+* Voice model selection
+* Flexible synthesis configuration
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 🎨 Modern User Interface
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Responsive design
+* Professional dashboard layout
+* Smooth user experience
+* Mobile-friendly design
 
-## Learn More
+### 📚 Preset Voice Samples
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Welcome narration
+* Marketing advertisement
+* Audiobook sample
+* Educational content
+* Voice quality testing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 📱 Cross-Platform Support
 
-### Code Splitting
+* Desktop browsers
+* Mobile browsers
+* Tablet devices
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🛠️ Technology Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Frontend
 
-### Making a Progressive Web App
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Development Tools
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* Node.js
+* npm
+* Git
+* GitHub
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* Netlify
+* Vercel
+* GitHub Pages
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📂 Project Structure
 
+```bash
+src/
+├── components/
+├── assets/
+├── styles/
+├── App.js
+├── index.js
+└── ...
+public/
+├── index.html
+└── ...
+```
 
+---
 
+## ⚡ Installation
 
-### go to directory
-cd D:\projects\texttospeech\dictionary-app
+Clone the repository:
 
-### npm start
+```bash
+git clone https://github.com/SHATRUGHANCHAUHAN/Text-To-Speech.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Text-To-Speech
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm start
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+* React.js development
+* Component-based architecture
+* State management
+* Responsive web design
+* Modern UI/UX principles
+* Git and GitHub workflows
+* Frontend deployment processes
+
+---
+
+## 🔮 Future Enhancements
+
+* AI-powered voice generation
+* Multiple language support
+* Speech download functionality
+* User authentication
+* Voice cloning features
+* Audio history management
+* Cloud storage integration
+
+---
+
+## 👨‍💻 Author
+
+### Shatrughan Kumar
+
+B.Tech Computer Science & Engineering
+Mewar University
+
+📧 Email: [shatrughanchauhan772@gmail.com](mailto:shatrughanchauhan772@gmail.com)
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/shatrughan-kumar-6017352a2/
+
+💻 GitHub:
+https://github.com/SHATRUGHANCHAUHAN
+
+---
+
+## 📄 License
+
+This project is intended for educational, portfolio, and learning purposes.
+
+Copyright © 2026 Shatrughan Kumar. All Rights Reserved.
