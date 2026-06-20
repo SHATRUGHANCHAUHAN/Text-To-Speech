@@ -7,7 +7,7 @@ A modern and responsive Text-to-Speech (TTS) web application built using React.j
 Add your deployed application link here:
 
 ```text
-[https://your-app-url.netlify.app](https://text-2-speech-tau.vercel.app/)
+https://text-2-speech-tau.vercel.app/
 ```
 
 ---
