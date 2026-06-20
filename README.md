@@ -105,39 +105,6 @@ public/
 
 ---
 
-## ⚡ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/SHATRUGHANCHAUHAN/Text-To-Speech.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd Text-To-Speech
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm start
-```
-
-Build for production:
-
-```bash
-npm run build
-```
-
----
 
 ## 🎯 Learning Outcomes
 
